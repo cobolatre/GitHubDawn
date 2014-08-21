@@ -1,1 +1,8 @@
-.sass-cache
+# Ignorar archivos Sublime Text
+
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar archivos de CodeKit 
+
+*.codekit
