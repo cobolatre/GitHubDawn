@@ -19,3 +19,15 @@ block; } body {     line-height: 1; } ol, ul {     list-style: none; }
 blockquote, q {     quotes: none; } blockquote:before, blockquote:after,
 q:before, q:after {     content: '';     content: none; } table {     border-
 collapse: collapse;     border-spacing: 0; }
+
+/*Cacharreo básico para probar*/
+
+header {
+	background-color: #888;
+	height: 3rem;
+	padding: 1rem;
+	font-size: 4rem;
+}
+p{
+	font-size: 24px;
+}
